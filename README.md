@@ -2,9 +2,9 @@
 
 This is a pared-down version of *INFORMED*, a **news aggregator web app** that I built using **React.js**, **JavaScript**, **HTML**, **CSS**. The **web app** queries **The New York Times API** and **The Guardian API** and curates news articles according to the user's interests.
 
-**FUNCTIONALITIES & PAGE INTERACTIVITY**
+##FUNCTIONALITIES & PAGE INTERACTIVITY
 
-## These coding segments implement:
+** These coding segments implement:**
 - Querying The New York Times API and The Guardian API. The user can input a date and a search string.
 - Fetching relevant articles from the API's, and 
 - Outputting a list of articles that match the user's search.
