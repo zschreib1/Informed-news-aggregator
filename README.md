@@ -18,6 +18,6 @@ In the project directory, you can run:
 To run the applictation in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-In order for the web app to work, you must register for an account on The New York Times Dev Portal (https://developer.nytimes.com/get-started) and on The Guardian Open Platform (https://open-platform.theguardian.com/access/). Once you have registered and have your personal API keys, copy paste your keys in the src/config.js file and make sure that that file is listed in the .gitignore file.
+In order for the web app to work, you must **register for an account** on **The New York Times Dev Portal** (https://developer.nytimes.com/get-started) and on **The Guardian Open Platform** (https://open-platform.theguardian.com/access/). Once you have registered and have your **personal API keys**, paste your keys in the src/config.js file and make sure that that file is listed in the .gitignore file.
 
 
