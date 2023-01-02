@@ -162,7 +162,7 @@ class App extends React.Component {
     );
   }
 
-
+  // Handles user input
   handleChange = (event) => {
     this.setState({
       input: event.target.value,
@@ -173,7 +173,8 @@ class App extends React.Component {
       article_count_TG: 0,
     });
   }
-
+  
+  // Handles article search
   searchArticles = () => {
     const query = this.state.input
 
